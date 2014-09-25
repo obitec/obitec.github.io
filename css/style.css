@@ -9,6 +9,15 @@ body {
 body {
   padding-top: 110px;
 }
+
+.navbar-fixed-top {
+  height: 80px;
+}
+
+img.logo {
+  height: 55px;
+}
+
 footer {
   padding: 30px 0;
 }
